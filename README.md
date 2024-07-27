@@ -21,7 +21,7 @@ When the user inputs the number of coins and their values, the algorithm calcula
  ##  Players determine the number of coins and there values after that the maximum amount of money that can be won by the first player is displayed
  ![image](https://github.com/user-attachments/assets/0261837d-2e84-4ab4-81c7-bbe4ab88d7bb)
  ## Displaying the dynamic table 
- ![image](https://github.com/user-attachments/assets/25441b08-dd37-d92-94f9-a62c42549914)
+ ![image](https://github.com/user-attachments/assets/ae67e172-9910-49ca-9403-22940971cb06)
  ## Provides visual animations to display each coin selected by the players during the game, highlighting the coins chosen on each turn for a clear understanding of the strategy
  ![image](https://github.com/user-attachments/assets/c20af7cc-e5f8-47c9-b2e2-516fcc5711e1)
 
